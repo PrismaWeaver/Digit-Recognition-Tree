@@ -1,5 +1,5 @@
 # Digit Recognition Tree
-### Team Members: Twee Shackelford, Richard Sullivan. Group 6.
+### Team Members: Twee Shackelford, Richard M Sullivan. Group 6.
 ### Link to the competition:
 https://www.kaggle.com/competitions/digit-recognizer/overview 
 ### Description the problem: 
